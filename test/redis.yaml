@@ -1,0 +1,9 @@
+apiVersion: myapp.shadow.com/v1
+kind: Redis
+metadata:
+  name: shadow
+  namespace: default
+spec:
+  port: 2390
+  replicas: 3
+  name: shadow

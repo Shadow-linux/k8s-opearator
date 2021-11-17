@@ -1,0 +1,500 @@
+   38  go run mysqllShell.go 
+   39  go run mysqllShell.go 
+   40  go run mysqllShell.go 
+   41  go run mysqllShell.go 
+   42  go run mysqllShell.go 
+   43  go run mysqllShell.go 
+   44  go run mysqllShell.go 
+   45  go run mysqllShell.go 
+   46  go run mysqllShell.go 
+   47  go run mysqllShell.go 
+   48  go run mysqllShell.go 
+   49  go run mysqllShell.go 
+   50  go run mysqllShell.go 
+   51  go run mysqllShell.go terminal.go 
+   52  go run mysqllShell.go terminal.go 
+   53  go run mysqllShell.go terminal.go 
+   54  go run mysqllShell.go terminal.go 
+   55  go run mysqllShell.go terminal.go 
+   56  go run mysqllShell.go terminal.go 
+   57  go run mysqllShell.go terminal.go 
+   58  go run mysqllShell.go terminal.go 
+   59  go run mysqllShell.go terminal.go 
+   60  go run mysqllShell.go terminal.go 
+   61  go run mysqllShell.go terminal.go 
+   62  go run mysqllShell.go terminal.go 
+   63  go run mysqllShell.go terminal.go 
+   64  go run mysqllShell.go terminal.go 
+   65  go run mysqllShell.go terminal.go 
+   66  go run mysqllShell.go terminal.go 
+   67  go run mysqllShell.go terminal.go 
+   68  go run mysqllShell.go terminal.go 
+   69  go run mysqllShell.go terminal.go 
+   70  go run mysqllShell.go terminal.go 
+   71  go run mysqllShell.go terminal.go 
+   72  cd /Users/liangyedong/Desktop/workspace/go/k8sapi/tests/mysql_shell
+   73  ls
+   74  go run  mysqllShell.go 
+   75  exit
+   76  ssh_shadow 
+   77  ssh_pro
+   78  ls
+   79  ssh_pro
+   80  cd ~/Desktop/lizhi/code/
+   81  git clone git@gitlab.lizhi.fm:Sakyamuni/sakya_dba_cli.git
+   82  ls
+   83  cd sakya_dba_cli/
+   84  ls
+   85  touch README.md
+   86  vim README.md 
+   87  git add README.md
+   88  git commit -m "add README"
+   89  git push -u origin master
+   90  ssh_106
+   91  ssh_106
+   92  ssh_106
+   93  ssh_106
+   94  ssh_106
+   95  ssh_106
+   96  ssh_106
+   97  cat ~/.ssh/id_rsa
+   98  ssh_shadow 
+   99  df -h
+  100  ssh_shadow 
+  101  ssh_shadow 
+  102  ssh_shadow 
+  103  ssh_106
+  104  ssh_shadow 
+  105  ssh_shadow 
+  106  ssh_shadow 
+  107  ssh_shadow 
+  108  ssh_shadow 
+  109  ssh_shadow 
+  110  brew install go@1.16
+  111  ls  /usr/local/Cellar
+  112  ls /usr/local/go/
+  113  ls /usr/local/go/bin/
+  114  /usr/local/go/bin/go version
+  115  rm /usr/local/go/ -rf
+  116  rm -rf /usr/local/go/ 
+  117  sudo su -
+  118  vim ~/.bash_profile
+  119  source ~/.bash_profile
+  120  go_116 version
+  121  ssh_shadow 
+  122  ssh_shadow 
+  123  ssh_shadow 
+  124  df -h
+  125  du -sh  /System/Volumes/Data/*
+  126  sudo du -sh  /System/Volumes/Data/*
+  127  du -sh /System/Volumes/VM
+  128  du -sh /System/Volumes/VM/*
+  129  cd /Users/liangyedong/Desktop/workspace/go/k8sapi/tests/
+  130  ls
+  131  cd mysql_shell/
+  132  go run mysqllShell.go 
+  133  go run mysqllShell.go 
+  134  go run mysqllShell.go 
+  135  sudo vim /etc/hosts
+  136  curl ingress.shadow-yd.com
+  137  curl ingress.shadow-yd.com:32080
+  138  ssh_k8s_01
+  139  ssh_shadow 
+  140  ssh_shadow ls /usr/local/Cellar/go\@1.16
+  141  ls /usr/local/Cellar/go\@1.16/1.16.7/bin/
+  142  ssh_shadow 
+  143  ssh_shadow 
+  144  ssh_106
+  145  cd //if err = session.Run("bash -c 'mysql -u root -h172.17.38.90 -p123456'"); err != nil {
+  146  //panic(err)
+  147  cd /Users/liangyedong/Desktop/workspace/go/k8sapi
+  148  ls
+  149  cd tests/mysql_shell/
+  150  go run mysqllShell.go 
+  151  go run mysqllShell.go 
+  152  go run mysqllShell.go 
+  153  ssh_shadow 
+  154  ssh_shadow 
+  155  ssh_shadow 
+  156  ssh_shadow 
+  157  ssh_shadow 
+  158  ssh_shadow 
+  159  ssh_shadow 
+  160  ssh_shadow 
+  161  ssh_shadow 
+  162  ssh_pro 
+  163  ssh_shadow 
+  164  ssh
+  165  ssclear
+  166  ssh_shadow 
+  167  ssh_shadow 
+  168  ssh_shadow 
+  169  ssh_shadow 
+  170  ssh_shadow 
+  171  cat ~/.ssh/id_rsa
+  172  nslookup proxy.golang.org
+  173  ssh_shadow 
+  174  ssh_shadow 
+  175  ssh_pro
+  176  ssh_106
+  177  ssh_pro 
+  178  ssh_pro 
+  179  cat ~/.ssh/id_rsa
+  180   
+  181  ssh_shadow 
+  182  ssh_pro 
+  183  alias
+  184  cat v
+  185  cat /Users/liangyedong/Desktop/workspace/go/jtthink_k8s/config/kube.cfg
+  186  ssh_shadow 
+  187  sh /Users/liangyedong/Desktop/workspace/webstorm激活/IntelliJ全家桶激活方式/jetbrains-agent-2020.1.3/reset_eval/reset_jetbrains_eval_mac_linux.sh
+  188  sh /Users/liangyedong/Desktop/workspace/webstorm激活/IntelliJ全家桶激活方式/jetbrains-agent-2020.1.3/reset_eval/reset_jetbrains_eval_mac_linux.sh
+  189  cd /Users/liangyedong/Desktop/workspace/go/k8sapi/tests/mysql_shell
+  190  ls
+  191  go run mysqllShell.go 
+  192  go run mysqllShell.go 
+  193  go mod tidy
+  194  go mod tidy
+  195  ls
+  196  go mod tidy
+  197  istioctl kube-inject -f api.yaml | kubectl apply -f –
+  198  git add .
+  199  git add .
+  200  git status
+  201  git commit -m "fix backup dispatch bug" .
+  202  git push origin dev
+  203  ssh_shadow 
+  204  ssh_shadow 
+  205  ssh_shadow 
+  206  ssh_shadow 
+  207  ssh_shadow 
+  208  ssh_shadow 
+  209  ssh_shadow 
+  210  ssh_shadow 
+  211  ssh_pro
+  212  ssh_shadow 
+  213  ssh_shadow 
+  214  date +%F
+  215  git add .
+  216  git status
+  217  git commit -m "v2 mysqlcluster aggregation & services & utils 开发中" 。
+  218  git commit -m "v2 mysqlcluster aggregation & services & utils 开发中" .
+  219  git push  origin dev_20210929_last_develop
+  220  git add .
+  221  git status
+  222  git commit -m "mysql database life mission 开发中" .
+  223  git push origin dev_20210929_last_develop
+  224  ls
+  225  cd src/
+  226  python manage.py db migrate
+  227  python manage.py db migrate
+  228  python manage.py db migrate
+  229  python manage.py db upgrde
+  230  python manage.py db upgrade
+  231  cd ..
+  232  git add .
+  233  git status
+  234  git commit -m "database life 开发完成" .
+  235  git push origin dev
+  236  git status
+  237  git status
+  238  git add .
+  239  git status
+  240  git log
+  241  git push origin dev_20210929_last_develop
+  242  ls
+  243  cd src/
+  244  ls
+  245  python manage.py manage.py migrate
+  246  python manage.py manage.py migrate
+  247  python manage.py manage.py db migrate
+  248  ls
+  249  history |grep migrate
+  250  python manage.py db migrate
+  251  python manage.py db upgrade
+  252  git add ,
+  253  git add .
+  254  git status
+  255  git commit -m "life mission instance" .
+  256  git push origin dev_20210929_last_develop
+  257  git checkout dev
+  258  git add .
+  259  git status
+  260  git push origin dev
+  261  git commit -m "db_manage sn" .
+  262  git push origin dev
+  263  git branch
+  264  git checkout dev_20210929_last_develop
+  265  cd  ..
+  266  git add .
+  267  git  status 
+  268  git commit -m 
+  269  git commit -m "job 开发为完成" .
+  270  git push origin dev_20210929_last_develop
+  271  ls
+  272  cd src/
+  273  ls
+  274  python manage.py shell
+  275  python manage.py shell
+  276  python manage.py shell
+  277  python manage.py shell
+  278  python manage.py shell
+  279  python manage.py shell
+  280  git  add . 
+  281  git status
+  282  git commit -m "release life mission" . 
+  283  git push origin dev_20210929_last_develop
+  284  git commit -m "release life mission" . 
+  285  git push origin dev_20210929_last_develop
+  286  cd ..
+  287  ls
+  288  git status
+  289  git status
+  290  git  add .
+  291  git status
+  292  git commit -m "cluster  mission" .
+  293  git push origin dev_20210929_last_develop
+  294  git add .
+  295  git status
+  296  git commit -m "life cycle" .
+  297  git push origin dev_20210929_last_develop
+  298  git checkout  dev
+  299  git add .
+  300  git status
+  301  git commit -m "update result_mysql_machine_metadata timeout " .
+  302  git push origin dev
+  303  git status
+  304  git checkout dev_20210929_last_develop
+  305  git checkout  dev
+  306  git checkout dev_20210929_last_develop
+  307  git status
+  308  git commit -m "life controller finished" .
+  309  git push origin dev_20210929_last_develop
+  310  pwd
+  311  pwd
+  312  ls /Users/liangyedong/Desktop/lizhi/code/sakya_db/src/script/darwin/sql-parser 
+  313  /Users/liangyedong/Desktop/lizhi/code/sakya_db/src/script/darwin/mysqlshell
+  314  /Users/liangyedong/Desktop/lizhi/code/sakya_db/src/script/darwin/mysqlshell
+  315  ls
+  316  cd src/
+  317  ls
+  318  python script/darwin/mysqlshell 
+  319  python tests/mysql_shell.py 
+  320  ls /Users/liangyedong/Desktop/lizhi/code/sakya_db/src/script/darwin/mysqlshell
+  321  python tests/mysql_shell.py 
+  322  ls
+  323  python tests/mysql_shell_2.py 
+  324  python tests/mysql_shell_2.py 
+  325  python tests/mysql_shell_2.py 
+  326  python tests/mysql_shell_2.py 
+  327  python tests/mysql_shell_2.py 
+  328  python tests/mysql_shell_2.py 
+  329  python tests/mysql_shell_2.py 
+  330  python tests/mysql_shell_2.py 
+  331  python tests/mysql_shell_2.py 
+  332  python tests/mysql_shell_2.py 
+  333  python tests/mysql_shell_2.py 
+  334  python tests/mysql_shell_2.py 
+  335  python tests/mysql_shell_2.py 
+  336  python tests/mysql_shell_2.py 
+  337  python tests/mysql_shell_2.py 
+  338  python tests/mysql_shell_2.py 
+  339  python tests/mysql_shell_2.py 
+  340  python tests/mysql_shell_2.py 
+  341  python tests/mysql_shell_2.py 
+  342  python tests/mysql_shell_2.py 
+  343  cd src/
+  344  python tests/mysql_shell_2.py 
+  345  python tests/mysql_shell_2.py 
+  346  python tests/mysql_shell_2.py 
+  347  python tests/mysql_shell_2.py 
+  348  python tests/mysql_shell_2.py 
+  349  python tests/mysql_shell_2.py 
+  350  python tests/mysql_shell_2.py 
+  351  python tests/mysql_shell_2.py 
+  352  python tests/mysql_shell_2.py 
+  353  python tests/mysql_shell_2.py 
+  354  python tests/mysql_shell_2.py 
+  355  python tests/mysql_shell_2.py 
+  356  python tests/mysql_shell_2.py 
+  357  python tests/mysql_shell_2.py 
+  358  python tests/mysql_shell_2.py 
+  359  python tests/mysql_shell_2.py 
+  360  python tests/mysql_shell_2.py 
+  361  python tests/mysql_shell_2.py 
+  362  python tests/mysql_shell_2.py 
+  363  python tests/mysql_shell_2.py 
+  364  python tests/mysql_shell_2.py 
+  365  cd src
+  366  python tests/mysql_shell_2.py 
+  367  python tests/mysql_shell_2.py 
+  368  python tests/mysql_shell_2.py 
+  369  python tests/mysql_shell_2.py 
+  370  python tests/mysql_shell_2.py 
+  371  python tests/mysql_shell_2.py 
+  372  python tests/mysql_shell_2.py 
+  373  python tests/mysql_shell_2.py 
+  374  python tests/mysql_shell_2.py 
+  375  python tests/mysql_shell_2.py 
+  376  python tests/mysql_shell_2.py 
+  377  python tests/mysql_shell_2.py 
+  378  python tests/mysql_shell_2.py 
+  379  python tests/mysql_shell_2.py 
+  380  python tests/mysql_shell_2.py 
+  381  python tests/mysql_shell_2.py 
+  382  python tests/mysql_shell_2.py 
+  383  python tests/mysql_shell_2.py 
+  384  python tests/mysql_shell_2.py 
+  385  python tests/mysql_shell_2.py 
+  386  python tests/mysql_shell_2.py 
+  387  python tests/mysql_shell_2.py 
+  388  python tests/mysql_shell_2.py 
+  389  python tests/mysql_shell_2.py 
+  390  python tests/mysql_shell_2.py 
+  391  cd src/
+  392  python tests/mysql_shell_2.py 
+  393  cd src/
+  394  python tests/mysql_shell_2.py 
+  395  python tests/mysql_shell_2.py 
+  396  python tests/mysql_shell_2.py 
+  397  python tests/mysql_shell_2.py 
+  398  cd src/
+  399  python tests/mysql_shell_2.py 
+  400  python tests/mysql_shell_2.py 
+  401  python tests/mysql_shell_2.py 
+  402  cd src/
+  403  python tests/mysql_shell_2.py 
+  404  python tests/mysql_shell_2.py 
+  405  cd src/
+  406  python tests/mysql_shell_2.py 
+  407  python tests/mysql_shell_2.py 
+  408  ssh_shadow 
+  409  ssh_shadow 
+  410  ssh_pro
+  411  ssh_pro
+  412  ssh_shadow 
+  413  ssh_shadow 
+  414  ssh_shadow 
+  415  ssh_shadow 
+  416  ssh_shadow 
+  417  ssh_106
+  418  ssh_shadow 
+  419  ssh_shadow 
+  420  ssh_shadow 
+  421  ssh_shadow 
+  422  ssh_shadow 
+  423  ssh_shadow 
+  424  ssh_shadow 
+  425  ssh_pro
+  426  ssh_pro
+  427  ssh_pro
+  428  ssh_pro
+  429  ssh_shadow 
+  430  ssh_shadow 
+  431  ssh_shadow 
+  432  ssh_shadow 
+  433  ssh_shadow 
+  434  ssh_shadow 
+  435  ssh_shadow 
+  436  ssh_shadow 
+  437  ssh_pro
+  438  history |grep mysql
+  439  cd /Users/liangyedong/Desktop/workspace/go/k8sapi/tests/mysql_shell
+  440  ls
+  441  go run mysqllShell.go 
+  442  ls
+  443  cat mysqllShell.go 
+  444   ls
+  445  pwd
+  446  ls
+  447  cd ..
+  448  ls
+  449  cd ..
+  450  ls
+  451  ls tests/
+  452  ls tests/mysql_shell/
+  453  go build tests/mysql_shell/mysqllShell.go -o mysql_shell
+  454  go build tests/mysql_shell/mysqllShell.go -o tests/mysql_shell/mysql_shell
+  455  go build tests/mysql_shell/mysqllShell.go -o tests/mysql_shell/mysql_shell
+  456  cat tests/mysql_shell/mysqllShell.go
+  457  ls
+  458  go build  -o tests/mysql_shell/mysql_shell tests/mysql_shell/mysqlshell
+  459  pwd
+  460  cd tests/mysql_shell/
+  461  ls
+  462  ./mysqlshell 
+  463  ssh_shadow 
+  464  ssh_shadow 
+  465  ssh_shadow 
+  466  ssh_shadow 
+  467  ssh_shadow 
+  468  ssh_shadow 
+  469  go run client.go 
+  470  which go
+  471  /usr/local/opt/go@1.14/bin/go run client.go 
+  472  /usr/local/opt/go@1.16/bin/go run client.go 
+  473  /usr/local/opt/go@1.16/bin/go run client.go 
+  474  /usr/local/opt/go@1.16/bin/go run client.go 
+  475  ls
+  476   /usr/local/opt/go@1.16/bin/go  mod tidy
+  477  ssh_k8s_01
+  478  ssh_shadow 
+  479  ssh_pro
+  480  ssh_pro
+  481  ssh_shadow
+  482  exit
+  483  sudo vim /etc/hosts
+  484  sudo vim /etc/hosts
+  485  nslookup sigs.k8s.io
+  486  ls
+  487  cd Downloads/
+  488  ls
+  489  ls
+  490  mv kubebuilder_darwin_amd64.1  /usr/local/bin/kubebuilder
+  491  chmod a+x /usr/local/bin/kubebuilder
+  492  df -h
+  493  dvm install 18.09.1
+  494  sh
+  495  sh
+  496  ssh_shadow 
+  497  ssh_k8s_0
+  498  ssh_k8s_01
+  499  ssh_shadow 
+  500  make install
+  501  kubectl get ctd
+  502  kubectl get crd
+  503  kubectl describe crd redis.myapp.shadow.com
+  504  make run
+  505  ls
+  506  kubebuilder create webhook --group shadow --version v1 --kind Redis --defaulting --programmatic-validation
+  507  kubebuilder create webhook --group shadow --version v1 --kind Redis --defaulting --programmatic-validation
+  508  kubebuilder create webhook --group shadow --version v1 --kind Redis --defaulting --programmatic-validation
+  509  ls
+  510  kubebuilder create webhook --group shadow --version v1 --kind Redis --defaulting --programmatic-validation
+  511* kubebuilder create api --group shadow --version v1 --kind Redisc
+  512  kubebuilder create webhook --group shadow --version v1 --kind Redis --defaulting --programmatic-validation
+  513  kubebuilder create webhook --group myapp --version v1 --kind Redis --defaulting --programmatic-validation
+  514  history 
+  515  kubectl apply -f 
+  516  kubectl apply -f https://github.com/jetstack/cert-manager/releases/download/v1.6.1/cert-manager.yaml
+  517  make run
+  518  make uninstall
+  519  make install
+  520  kubectl get ns
+  521  kubectl get crd
+  522  kubectl describe crd redis.myapp.shadow.com
+  523  make run
+  524  make run
+  525  make run
+  526  make run
+  527  history |grep deploy
+  528  history |grep run
+  529  history |grep deploy
+  530  ls
+  531  make run
+  532  make run
+  533  make run
+  534  make run
+  535  history 
+  536  ls
+  537  history  > ./his
