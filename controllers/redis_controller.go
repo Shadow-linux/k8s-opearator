@@ -181,6 +181,8 @@ func (r *RedisReconciler) SetupWithManager(mgr ctrl.Manager) error {
 	return ctrl.NewControllerManagedBy(mgr).
 		For(&myappv1.Redis{}).
 		// 监控资源，并对delete动作进行操作
-		Watches(&source.Kind{Type: &corev1.Pod{}}, handler.Funcs{DeleteFunc: r.podDeleteHandler}).
+		Watches(
+			&source.Kind{Type: &corev1.Pod{}},
+			handler.Funcs{DeleteFunc: r.podDeleteHandler},).
 		Complete(r)
 }
